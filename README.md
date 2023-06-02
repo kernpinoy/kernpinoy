@@ -5,7 +5,7 @@ cat $HOME/deets.yaml
 ```yaml
 user: kernpinoy
 os: arch linux
-wm: bspwm
+wm: hyprland
 launcher: rofi
 terminal: kitty
 shell: zsh
