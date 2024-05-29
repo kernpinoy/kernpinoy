@@ -10,6 +10,6 @@ launcher: rofi
 terminal: kitty
 shell: zsh
 theme: catpuccin mocha
-uptime: 20 years
+uptime: 21 years
 location: philippines
 ```
